@@ -1,6 +1,6 @@
 # SDLC Activity Based Learning
 
-![Banner](https://github.com/mukhtadiefiroz/m1_project-/blob/main/Requirements/banner.png)
+![Banner](https://github.com/mukhtadiefiroz/m1_project-/blob/main/Requirements/banner.jpeg)
 
 <!--
 Visit [Pages for Report -optional](using github.io option)
