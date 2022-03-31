@@ -16,7 +16,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5ecd85a2c4234d69affd5a4d5d96af52)](https://www.codacy.com/gh/mukhtadirfiroz/m1_project-/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mukhtadirfiroz/m1_project-;utm_campaign=Badge_Grade)
 [![cppcheck-action](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/cppcheck.yml)
 [![C/C++ CI](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/c-build.yml/badge.svg)](https://github.com/gmukhtadirfiroz/m1_project-/actions/workflows/c-build.yml)
-[![Unit testing](https://github.com/gmukhtadirfiroz/m1_project-/actions/workflows/unit-test.yml/badge.svg)](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/unit-test.yml)
+[![Unit testing](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/unit-test.yml/badge.svg)](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/unit-test.yml)
 [![Contribution Check - Git Inspector](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/mukhtadirfiroz/m1_project-/actions/workflows/gitinspector.yml)
 
 
