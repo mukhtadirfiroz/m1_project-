@@ -1,4 +1,4 @@
-# Movie Ticket Booking
+# Movie Ticket Booking.
 
 ![Banner](https://github.com/mukhtadirfiroz/m1_project-/blob/main/Requirements/banner.jpeg)
 
